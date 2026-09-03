@@ -1,0 +1,28 @@
+id: I1DCBD5CC
+initial_creation_type: ebook
+source_metadata:
+  id: BEN-SH-021
+  title: ༄༅། །ཕྱག་རྒྱ་ཆེན་པོའི་སྨོན་ལམ་གྱི་རྣམ་བཤད་ངེས་དོན་དབྱིངས་ཀྱི་རོལ་མོ་བཞུགས།
+    །
+  author: མཛད་པ་པོ། ཀརྨ་པ་རང་བྱུང་རྡོ་རྗེ།
+  authors: &id001
+  - མཛད་པ་པོ། ཀརྨ་པ་རང་བྱུང་རྡོ་རྗེ།
+  sku: BEN-SH-021
+  cover: BEN-SH-021.jpg
+  volume: {}
+ebook_metadata:
+  title: ༄༅། །ཕྱག་རྒྱ་ཆེན་པོའི་སྨོན་ལམ་གྱི་རྣམ་བཤད་ངེས་དོན་དབྱིངས་ཀྱི་རོལ་མོ་བཞུགས།
+    །
+  authors: *id001
+  sku: BEN-SH-021
+  cover: BEN-SH-021.jpg
+layers:
+- Author
+- BookNumber
+- BookTitle
+- Chapter
+- Citation
+- Commentary
+- Sabche
+- Tsawa
+- Yigchung
